@@ -1,0 +1,26 @@
+.App {
+  position: relative;;
+  text-align: center;
+  width:96%;
+  border: 2px solid black;
+  max-width: 400px;
+  margin:2vh auto;
+  box-shadow: 0 0 20px 10px var(--cyan-color);
+  padding: 5px;
+  border-radius: 16px;
+  background-color: var(--black-color);
+}
+.BG-Morning,.BG-Night,.BG-Noon{
+  background: no-repeat center;
+  background-size: cover;
+}
+.BG-Morning{
+  background-image: url(../assets/images/04.jfif);
+}
+.BG-Noon{
+  background-image: url(../assets/images/03.jfif);
+}
+
+.BG-Night{
+  background-image: url(../assets/images/05.jfif);
+}

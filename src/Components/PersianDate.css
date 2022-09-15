@@ -1,0 +1,12 @@
+.date-text{
+    padding:8px 0;
+    font-size: 1rem;
+    color: var(--wite-color);
+    border-radius: 8px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.dt{
+    margin: 5px 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
